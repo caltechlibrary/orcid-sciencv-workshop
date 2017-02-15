@@ -39,7 +39,10 @@ workflow.
 *These lessons assume no prior knowledge of the skills or tools*, but working
 through this lesson requires working copies of the software described below.
 To most effectively use these materials, please make sure to install everything
-*before* working through this lesson.                    
+*before* working through this lesson. 
+
+1.  Registered ORCID account (via orcid.org) with active login credentials
+2.  A Digital Object Identifier (DOI) for a publication you have authored.
 
 ## Using this template
 
