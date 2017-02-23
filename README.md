@@ -4,18 +4,22 @@ Author Carpentry : Lesson Template
 A description of the lesson goes here.  If you're reading this on the github
 repo, you see the rendered lesson at:
 
-http://authorcarpentry.github.io/lesson-template-mkpage
+http://authorcarpentry.github.io/lesson-template
 
-This example is testing using the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page
+This template is inspired by the software and data carpentry templates, 
+but it employs the mkpage site generation tool as an alternative
+to Jekyll.  Full usage information is at the bottom of the page.
 
-**Content Contributors: Name **
+*Content Contributors: Name*
 
-
-**Lesson Maintainers: Name **
-
+*Lesson Maintainers: Name*
 
 **Lesson status: In Development**
+
+## Learning Objectives:
+
+- One
+- Two
 
 ## Topics:
 
@@ -72,16 +76,16 @@ Desktop application or the command line command using
 Add Content
 
 * Edit README.md with information about this lesson
-* Add individual .md files with lesson content in repository with leading numbers like: 00-topic1.md;
+* Add individual .md files with lesson topics in repository with leading numbers like: 00-topic1.md;
 01-topic2.md
 * Edit nav.md to set links in the navigation bar
 
 View Lesson
 
-* In your terminal, type ./mk-website to generate .html files
+* In your terminal, type ./mk-website.bash to generate .html files
 * To preview the lesson, type ws and point your web browser to
 http://localhost:8000/.  
-* When you're happy with the lesson, type ./publish_website to send changes to
+* When you're happy with the lesson, type ./publish_website.bash to send changes to
 github (script does a git commit and git push)
 
 
