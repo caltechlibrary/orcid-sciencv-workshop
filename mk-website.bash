@@ -1,11 +1,7 @@
 #!/bin/bash
 
 function checkApp() {
-    APP_NAME=$1
-    if [ "$APP_NAME" = "" ]; then
-        echo "Missing $APP_NAME"
-        exit 1
-    fi
+    command -v $1 >/dev/null 2>&1 || { echo $1 " is required but not installed."; exit 1; }
 }
 
 function softwareCheck() {
