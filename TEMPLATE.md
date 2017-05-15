@@ -70,6 +70,6 @@ clash.  When you're happy with the updates type
     git push
 ```
 
-or use GitHub Desktop to sent the changes up to GitHub.
+or use GitHub Desktop to send the changes up to GitHub.
 
 
