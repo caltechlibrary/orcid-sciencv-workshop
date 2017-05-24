@@ -1,5 +1,6 @@
 
 + [Lesson](.)
-+ [Topic 1](00-getting-started.html)
-+ [Topic 2](01-working-with-openrefine.html)
++ [OrCiD Profile](00-orcid-profile.html)
++ [Adding Works](01-adding-works.html)
++ [References](REFERENCES.html)
 + [Contact Us](mailto:authorcarpentry@library.caltech.edu)
