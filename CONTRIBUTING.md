@@ -30,26 +30,25 @@ be viewed independent from a web connection.
 
 1.  Fork the `authorcarpentry/lesson-name` repository on GitHub.  
 
-2.  The default branch in our lessons is `gh-pages`. Create a 
-    new branch for your changes.  
-    Give your branch a meaningful name,
-    such as `fixing-typos-in-shell-lesson`
-    or `adding-tutorial-on-visualization`.
+2.  Clone the repository to your local computer by using the "Clone"
+    link at the top left corner of the repository page.  In a local
+    terminal window type 'git clone *link*'
 
-3.  Clone this repository and branch to work with it on your computer.  
-    git clone the repository with -b 'branch name'
-    
-4.  Make your changes to the .md files
+3.  Make your changes to the .md files using your favorite text editor.  
 
-5.  Render your content by typing ./mk-website.bash
+4.  Render your content by typing ./mk-website.bash
 
-6.  (Optional) View your changes locally by typing 'ws' and pointing your web browser to http://localhost:8000
+5.  (Optional) View your changes locally by typing 'ws' and pointing your web browser to http://localhost:8000
 
-7.  Upload your changes to GitHub by typing ./publish.bash (Does a commit and push)
+6.  Upload your changes to your GitHub account by typing ./publish.bash (Does a
+    git commit and push)
 
-8.  Send a pull request to the `gh-pages` branch of the main datacarpentry
-    repository at http://github.com/authorcarpentry/lesson-name. This can
-    be done through the github web interface. 
+7.  On the your GitHub repository site 'https://github.com/username/lesson-name' add a new branch by using the branch
+    dropdown.  Choose something that describes the changes you've made like `fixing-typos-in-shell-lesson`
+    or `adding-tutorial-on-visualization`.   
+
+8.  Submit a pull request by clicking the 'New pull request' button, right next
+    to the branch dropdown. 
 
 If it is easier for you to send them to us some other way,
 please mail us at [authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu).
