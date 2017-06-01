@@ -1,4 +1,5 @@
-#  Getting Started with OrCiD
+#  Adding Works
+
 15 Minutes
 
 -------------------------
@@ -43,4 +44,4 @@ standard?
 ORCiD profile?
 
 
-Next: [Working with OpenRefine](01-working-with-openrefine.html)
+Previous: [Getting Started with OrCiD](00-orcid-profile.html)
