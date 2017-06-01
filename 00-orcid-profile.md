@@ -78,5 +78,4 @@ colleagues don't get confused whether a given research work is yours or
 someone's with a similar or same name!**
 
 
-
-Next: [Working with OpenRefine](01-working-with-openrefine.html)
+Next: [Adding Works](01-adding-works.html)
