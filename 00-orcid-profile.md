@@ -1,7 +1,7 @@
 #  Getting Started with OrCiD
 15 Minutes
 
--------------------------
+---
 
 ## Learning Objectives
 
@@ -10,7 +10,7 @@
 * Apply desired privacy settings
 * Set up a delegate to assist with maintaining account
 
-----------------------------------------------------
+---
 
 Citations are a special type of research data that provide a succinct
 representation of a scholarly work in a standard format. Citation styles and
@@ -61,22 +61,23 @@ services.
 
 ---
 
-### Exercise 2A. After watching a demo of the ORCiD system and a viewing
-researcher's ORCiD profile, register for your own ORCiD using their quicky and
-easy form.
+> ## Exercise 2A. Create your own ORCiD
+>
+> After watching a demo of the ORCiD system and viewing a researcher's ORCiD 
+> profile, register for your own ORCiD using their quicky and easy form.
+>
+> > ## Solution 2A
+> >
+> > Point your web browser to http://orcid.org and follow the directions to 
+> > register for a new ORCiD. Wait for the confirmation email from ORCiD to 
+> > arrive in your email inbox and click on the link it contains to establish 
+> > your own unique 16-digit Researcher ID -- like a DOI but for people.
 
-    Point your web browser to http://orcid.org
-
-Wait for the confirmation email from ORCiD to arrive in your email inbox and
-click on the link it contains to establish your own unique 16-digit Researcher
-ID -- like a DOI but for people.
-
+---
 
 **Welcome to the global scholarly web where you get credit for all your work
 and contributions using ORCiD; no one claims your works as their own; and
 colleagues don't get confused whether a given research work is yours or
 someone's with a similar or same name!**
 
-
-
-Next: [Working with OpenRefine](01-working-with-openrefine.html)
+Next: [Adding Works](01-adding-works.html)
