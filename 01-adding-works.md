@@ -5,11 +5,12 @@
 
 ## Learning Objectives
 
-* Enter one work manually
-* Enter one work using the Crossref or DataCite wizard
-* Enter one work using the Scopus or ResearcherID wizard
-* Enter a list of works using the bibtex upload feature
+* Enter works in your OrCiD profile using multiple approaches 
+    * Crossref or DataCite wizard
+    * Upload a BibTex publications list
+    * Perform a manual entry
 * Compare displayed citations from various input approaches and deduplicate records
+* Export BibTex citations from OrCiD profile for reuse in other systems 
 
 ----------------------------------------------------
 
