@@ -61,12 +61,12 @@ services.
 
 ---
 
-> ## Exercise 2A. Create your own ORCiD
+> ## Exercise 1A. Create your own ORCiD
 >
 > After watching a demo of the ORCiD system and viewing a researcher's ORCiD 
 > profile, register for your own ORCiD using their quicky and easy form.
 >
-> > ## Solution 2A
+> > ## Solution 1A
 > >
 > > Point your web browser to http://orcid.org and follow the directions to 
 > > register for a new ORCiD. Wait for the confirmation email from ORCiD to 
