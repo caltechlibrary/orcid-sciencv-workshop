@@ -1,6 +1,6 @@
 #  Adding Works
 
-15 Minutes
+25 Minutes
 
 ---
 
