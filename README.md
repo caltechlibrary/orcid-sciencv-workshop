@@ -6,9 +6,9 @@ repo, you see the rendered lesson at:
 
 http://authorcarpentry.github.io/orcid-profile
 
-*Content Contributors: Gail Clement*
+*Content Contributors: Gail Clement, Tom Morrell*
 
-*Lesson Maintainers: Gail Clement*
+*Lesson Maintainers: Gail Clement, Tom Morrell*
 
 **Lesson status: In Development**
 
