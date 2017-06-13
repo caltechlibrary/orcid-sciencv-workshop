@@ -12,7 +12,7 @@ http://authorcarpentry.github.io/orcid-profile
 
 **Lesson status: In Development**
 
-## Learning Objectives:
+## What you will learn:
 
 * Register for an ORCiD account and activate it (or look up an existing ORCiD)
 * Logon to ORCiD and account and populate basic account fields
@@ -40,4 +40,8 @@ workflow.
 
 1.  A registered ORCID account (via orcid.org) with active login credentials
 2.  A Digital Object Identifier (DOI) for one of your scholarly works.
+
+## Cheat Sheet
+
+## References
 
