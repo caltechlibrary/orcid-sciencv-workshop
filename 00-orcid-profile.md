@@ -17,7 +17,7 @@ These circumstances mean that, on the web of data, we face name confusion challe
 
 The illustration below demonstrates that there are two researchers with the samename. Clicking on each of their ORCiD profiles reflects that they even work for the same agency in the same state!  If not for their unique ORCiD's, these two highly productive researchers could be easily confused by  both humans and computers. 
 
-![Example ORCiD data for two researchers](img/orcid-example.jpg)
+![Example ORCiD data for two researchers](img/orcid_example.jpg)
 ---
 
 ### Exercise 1A. Create your own ORCiD
