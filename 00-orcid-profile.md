@@ -1,5 +1,5 @@
 #  Getting Started with OrCiD
-15 Minutes
+25 Minutes
 
 ---
 
