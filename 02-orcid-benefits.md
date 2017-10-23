@@ -10,30 +10,11 @@
 * Experience integrating your ORCID account with another service
 * Advanced: Use the ORCID API to extract works from your profile
 
- 
-> ## Exercise 3A. Manually add a citation to your OrCidD Profile
-> Add a citation to your profile manually.
-> 
-> > ## Solution 2A
-> > Go to Add works -> Add manually.  Discuss the pros and cons of doing a 
-> > manual upload
+There are lots of services that integrate with ORCID.  Go to
+[scincv](https://www.ncbi.nlm.nih.gov/sciencv/) and set up an account.  Other
+integrations include [impactstory](https://profiles.impactstory.org/) (also
+requires a Twitter account) and [growKudos](https://www.growkudos.com/) 
 
-> ## Exercise 2B. Use a wizard to add citations to your ORCiD Profile
-> Use the CrossRef or DataCite wizard to find and add content to your OrCiD
-> profile.
-> 
-> > ## Solution 2B
-> > Go to Add works -> Search & link -> CrossRef or DataCite.  Try searching by
-> > name, OrCiD, or other options. Discuss the quality of the citations.
-
-> ## Exercise 2C. Add your BibTex citations to your OrCidD Profile
-> Take a list of BibTex citations generated in the DOI lesson and add them to
-> your profile
-> 
-> > ## Solution 2C
-> > Go to Add works -> Import BibTex.  How well did the import do?
-
----
 
 ## Advanced: Basic intro to the ORCID API
 
