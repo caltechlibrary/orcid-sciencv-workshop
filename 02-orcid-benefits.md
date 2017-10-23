@@ -86,11 +86,13 @@ This is all the information in your profile in a difficult to read format
 called json.  We want to make this pretty. Open the file (tmorrell.json in the
 example) in atom and use PrettyJSON.  
 
-We can use [mkpage](https://github.com/caltechlibrary/mkpage) and a template to
+We can use [mkpage](https://github.com/caltechlibrary/mkpage) and a 
+[template]
+(https://github.com/caltechlibrary/orcidtools/blob/master/templates/orcid2txt.tmpl) to
 format the results as a text list of citations.
 
 ```
-mkpage 'input=tmorrell.json' orcid2txt.tmpl
+mkpage 'data=tmorrell.json' orcid2txt.tmpl
 ```
 
 Previous: [Getting Started with OrCiD](00-orcid-profile.html)

@@ -108,10 +108,11 @@ profile.  Type (replacing the ORCID number)</p>
 called json.  We want to make this pretty. Open the file (tmorrell.json in the
 example) in atom and use PrettyJSON.</p>
 
-<p>We can use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> and a template to
+<p>We can use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> and a
+<a href="https://github.com/caltechlibrary/orcidtools/blob/master/templates/orcid2txt.tmpl">template</a> to
 format the results as a text list of citations.</p>
 
-<pre><code>mkpage 'input=tmorrell.json' orcid2txt.tmpl
+<pre><code>mkpage 'data=tmorrell.json' orcid2txt.tmpl
 </code></pre>
 
 <p>Previous: <a href="00-orcid-profile.html">Getting Started with OrCiD</a></p>
