@@ -19,9 +19,11 @@ After creating an ORCiD and validating your e-mail address, you'll have access t
 
 
 > ## Exercise 2A. Manually add a citation to your OrCidD Profile
+
 ![Blank Works section of newly-created account](img/manualAddWorks.jpg)
 
-> Add a citation to your profile manually.
+> Add a citation to your profile manually using the menu option.
+![Detail screen for manual add feature.](img/manualAddDetail.jpg)
 
  
 > > ## Solution 2A
@@ -56,3 +58,4 @@ standard?
 ORCiD profile?
 
 Previous: [Getting Started with OrCiD](00-orcid-profile.html)
+Next: [Adding Works](02-orcid-benefits.html)
