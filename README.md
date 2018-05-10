@@ -38,8 +38,7 @@ workflow.
 
 *Before* working through this lesson you will need: 
 
-1.  A registered ORCID account (via orcid.org) with active login credentials
-2.  A Digital Object Identifier (DOI) for one of your scholarly works.
+* A Digital Object Identifier (DOI) for one of your scholarly works.
 
 ## Cheat Sheet
 
