@@ -27,7 +27,7 @@ An API is a way for computer systems to interact.
 In this example we want to get a text version of all the works in our ORCID
 profile.
 
-We're going to use orcidtoold, a package designed to make using the ORCID API
+We're going to use orcidtools, a package designed to make using the ORCID API
 easier.  Download
 [orcidtools](https://github.com/caltechlibrary/orcidtools/releases) for your
 operating system, unzip the download, and move the executible (under /bin) to a
@@ -95,4 +95,4 @@ format the results as a text list of citations.
 mkpage 'data=tmorrell.json' orcid2txt.tmpl
 ```
 
-Previous: [Getting Started with OrCiD](00-orcid-profile.html)
+Previous: [Adding Works](01-adding-works.html)
