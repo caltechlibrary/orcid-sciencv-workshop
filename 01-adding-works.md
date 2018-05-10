@@ -58,4 +58,4 @@ standard?
 ORCiD profile?
 
 Previous: [Getting Started with OrCiD](00-orcid-profile.html)
-Next: [Adding Works](02-orcid-benefits.html)
+Next: [OrCiD Benefits](02-orcid-benefits.html)
