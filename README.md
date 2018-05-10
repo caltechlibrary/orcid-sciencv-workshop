@@ -38,7 +38,7 @@ workflow.
 
 *Before* working through this lesson you will need: 
 
-A Digital Object Identifier (DOI) for one of your scholarly works.
+* A Digital Object Identifier (DOI) for one of your scholarly works.
 
 ## Cheat Sheet
 
