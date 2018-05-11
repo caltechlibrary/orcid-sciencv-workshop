@@ -22,23 +22,26 @@ persistent identifier. Just as DOI's pinpoint an exact research contribution, an
 Online Contributor Researcher ID (ORCID iD, pronounced like the lovely flower) 
 creates a unique, persistent identifier for an individual researcher.
 
-The illustration below demonstrates that there are two researchers with the same name. 
-Clicking on each of their ORCID profiles reflects that they even work for the same 
+Check out these two ORCID profiles: [Carol
+Finn](https://orcid.org/0000-0003-3144-1645) and [Carol
+Finn](https://orcid.org/0000-0002-6178-0405)
+
+These two researchers have the same name. Looking at their employment they even work for the same 
 agency in the same state!  If not for their unique ORCIDs, these two highly productive 
 researchers could be easily confused by both humans and computers. 
 
 ![Example ORCiD data for two researchers](img/orcid_example.jpg)
 ---
 
-### Exercise 1A. Create your own ORCID
-
-After watching a demo of the ORCID system and viewing a researcher's ORCID 
-profile, register for your own ORCID using their quick and easy form.
-
-Point your web browser to http://orcid.org and follow the directions to 
-register for a new ORCID. Wait for the confirmation email from ORCID to 
-arrive in your email inbox and click on the link it contains to establish 
-your own unique 16-digit Researcher ID -- like a DOI but for people.
+> ### Exercise 1A. Create your own ORCID
+> 
+> After watching a demo of the ORCID system and viewing a researcher's ORCID 
+> profile, register for your own ORCID using their quick and easy form.
+>
+> Point your web browser to http://orcid.org and follow the directions to 
+> register for a new ORCID. Wait for the confirmation email from ORCID to 
+> arrive in your email inbox and click on the link it contains to establish 
+> your own unique 16-digit Researcher ID -- like a DOI but for people.
 
 ---
 
