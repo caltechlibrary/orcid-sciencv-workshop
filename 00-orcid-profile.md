@@ -30,7 +30,9 @@ These two researchers have the same name. Looking at their employment they even 
 agency in the same state!  If not for their unique ORCIDs, these two highly productive 
 researchers could be easily confused by both humans and computers. 
 
-![Example ORCiD data for two researchers](img/orcid_example.png)
+<img src="img/orcid_example.png" alt="Example ORCiD data for two researchers"
+width="1000px">
+
 ---
 
 > ### Exercise 1A. Create your own ORCID

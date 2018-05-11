@@ -21,27 +21,34 @@ computer systems will see when they look up your ORCID.
 
 ![Blank ORCiD profile in a newly-created account](img/blankProfile.jpg)
 
+---
 
 > ## Exercise 2A. Manually add a citation to your ORCID Profile
 >
+> Add a citation to your profile manually using the menu option under "Add
+> works".
+>
 > ![Blank Works section of newly-created account](img/manualAddWorks.jpg)
 >
-> Add a citation to your profile manually using the menu option.
-> ![Detail screen for manual add feature.](img/manualAddDetail.jpg)
->
-> 
 > > ## Solution 2A
-> > Go to Add works -> Add manually.  Discuss the pros and cons of doing a 
-> > manual upload
+> >
+> > There is a detailed form with lots of options.  Discuss the pros and cons of doing a
+> > manual upload.
+> > ![Detail screen for manual add feature.](img/manualAddDetail.jpg)
+
+---
 
 > ## Exercise 2B. Use a wizard to add citations to your ORCID Profile
-> ![Blank Works section of newly-created account](img/AddWorks.jpg)
-> Use the CrossRef or DataCite wizard to find and add content to your ORCID
-> profile.
+> Use the "Search & link" option to select the CrossRef or DataCite wizard 
+> to find and add content to your ORCID profile.
 > 
 > > ## Solution 2B
+> > ![Blank Works section of newly-created account](img/AddWorks.jpg)
+> >
 > > Go to Add works -> Search & link -> CrossRef or DataCite.  Try searching by
 > > name, ORCID, or other options. Discuss the quality of the citations.
+
+---
 
 > ## Exercise 2C. Add your BibTex citations to your ORCID Profile
 > Take a list of BibTex citations generated in the DOI lesson and add them to
