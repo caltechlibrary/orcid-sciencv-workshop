@@ -38,22 +38,26 @@ width="1000px">
 
 Point your web browser to http://orcid.org and follow the directions to register for a new ORCID. Wait for the confirmation email from ORCID to arrive in your email inbox and click on the link it contains to establish your own unique 16-digit Researcher ID -- like a DOI but for people.
 
-If you have an ORCID but don't remember the number and password, plesae consult the ORCID help page at <https://support.orcid.org/knowledgebase/articles/895944-how-do-you-check-for-duplicate-orcid-records>
+If you already have an ORCID but don't remember the number and password, please consult the ORCID help page at <https://support.orcid.org/knowledgebase/articles/895944-how-do-you-check-for-duplicate-orcid-records>. If you end up with two ORCID accounts, you can work with ORCID tech support to merge them per the instructions at <https://orcid.org/blog/2017/03/15/new-feature-alert>.
 
-### Exercise 2. Add a Biography to your ORCID profile for use in other services
+### Exercise 2. Add a Biography to your ORCID profile for use in other trusted Web services
 
 When you log into your ORCID account, you will land on your profile page <https://orcid.org/my-orcid> with buttons enabling you to add new data or edit existing data.
 
 Write a brief biography and make sure to set it to public view, as shown in the screen shot below.
 
-![ORCID Biography](img/orcid_bio.jpg)
+![Screenshot of an ORCID Biography](img/orcid_bio.jpg)
 
 ---
 
-### Welcome to the global scholarly web where, thanks to ORCID,
+Welcome to the global scholarly web where, thanks to ORCID:
 
 - You get credit for all your work and contributions 
 - No one claims your works as their own
 - Publishers, Funders, and Colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
+- You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems 
+    + Publishers that require author ORCIDs are listed at <https://orcid.org/content/requiring-orcid-publication-workflows-open-letter>
+    + Funders with ORCID policies are listed at <https://orcid.org/organizations/funders/policies>
+    + Institutions that have integrated ORCID are listed at <https://orcid.org/members> 
 
 Next: [Adding Works](01-adding-works.html)
