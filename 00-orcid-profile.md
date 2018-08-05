@@ -6,8 +6,8 @@
 ## Learning Objectives
 
 * Register for an ORCID account and activate it (or look up an existing ORCID iD)
-* Logon to ORCID and account and populate (at a  minimum) the Biography
-* Make sure the Biography section is set for public view
+* Log on to your ORCID account and populate (at a  minimum) the Biography
+* Make sure the Biography section is set for public view so it can be harvested by another service (eg, a reproducible report)
 
 ---
 To our loved ones, we are unique in the world, but when it comes to our names on the vast scholarly web, that is not the case! Names are not the best unique identifiers for us as authors because they can be identifical or similar enough that a computer can not tell us apart. Additionally, our names may change over time due to life events; or they may be represented in different ways depending on translation or transliteration. 
@@ -38,12 +38,22 @@ width="1000px">
 
 Point your web browser to http://orcid.org and follow the directions to register for a new ORCID. Wait for the confirmation email from ORCID to arrive in your email inbox and click on the link it contains to establish your own unique 16-digit Researcher ID -- like a DOI but for people.
 
-If you have an ORCID but don't remember the number and password, 
+If you have an ORCID but don't remember the number and password, plesae consult the ORCID help page at <https://support.orcid.org/knowledgebase/articles/895944-how-do-you-check-for-duplicate-orcid-records>
+
+### Exercise 2. Add a Biography to your ORCID profile for use in other services
+
+When you log into your ORCID account, you will land on your profile page <https://orcid.org/my-orcid> with buttons enabling you to add new data or edit existing data.
+
+Write a brief biography and make sure to set it to public view, as shown in the screen shot below.
+
+![ORCID Biography](img/orcid_bio.jpg)
+
 ---
 
-**Welcome to the global scholarly web where you get credit for all your work
-and contributions using ORCID; no one claims your works as their own; and
-colleagues don't get confused whether a given research work is yours or
-someone's with a similar or same name!**
+### Welcome to the global scholarly web where, thanks to ORCID,
+
+- You get credit for all your work and contributions 
+- No one claims your works as their own
+- Publishers, Funders, and Colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
 
 Next: [Adding Works](01-adding-works.html)
