@@ -6,9 +6,8 @@
 ## Learning Objectives
 
 * Register for an ORCID account and activate it (or look up an existing ORCID iD)
-* Logon to ORCID and account and populate basic account fields
-* Apply desired privacy settings
-* Set up a delegate to assist with maintaining account
+* Logon to ORCID and account and populate (at a  minimum) the Biography
+* Make sure the Biography section is set for public view
 
 ---
 To our loved ones, we are unique in the world, but when it comes to our names on the vast scholarly web, that is not the case! Names are not the best unique identifiers for us as authors because they can be identifical or similar enough that a computer can not tell us apart. Additionally, our names may change over time due to life events; or they may be represented in different ways depending on translation or transliteration. 
@@ -35,16 +34,11 @@ width="1000px">
 
 ---
 
-> ### Exercise 1A. Create your own ORCID
-> 
-> After watching a demo of the ORCID system and viewing a researcher's ORCID 
-> profile, register for your own ORCID using their quick and easy form.
->
-> Point your web browser to http://orcid.org and follow the directions to 
-> register for a new ORCID. Wait for the confirmation email from ORCID to 
-> arrive in your email inbox and click on the link it contains to establish 
-> your own unique 16-digit Researcher ID -- like a DOI but for people.
+### Exercise 1. Create your own ORCID
 
+Point your web browser to http://orcid.org and follow the directions to register for a new ORCID. Wait for the confirmation email from ORCID to arrive in your email inbox and click on the link it contains to establish your own unique 16-digit Researcher ID -- like a DOI but for people.
+
+If you have an ORCID but don't remember the number and password, 
 ---
 
 **Welcome to the global scholarly web where you get credit for all your work
