@@ -5,32 +5,31 @@
 
 ## Learning Objectives
 
-* Register for an ORCID account and activate it (or look up an existing ORCID iD)
-* Log on to your ORCID account and populate (at a  minimum) the Biography
-* Make sure the Biography section is set for public view so it can be harvested by another service (eg, a reproducible report)
+* Register for an ORCiD account and activate it (or look up an existing ORCiD)
+* Sign in to your ORCiD account and edit your profile by populating basic account fields
+* Apply desired privacy settings to the data in your ORCID profile
 
 ---
-To our loved ones, we are unique in the world, but when it comes to our names on the vast scholarly web, that is not the case! Names are not the best unique identifiers for us as authors because they can be identifical or similar enough that a computer can not tell us apart. Additionally, our names may change over time due to life events; or they may be represented in different ways depending on translation or transliteration. 
+The scholarly web is exploding in size and complexity as more research outputs are published online across a plethora of platforms using a diversity of filetypes and formats. According to the International Association of STM Publishers:
 
-These circumstances mean that, on the web of data, we face name confusion challenges. 
-We may be associated with work we did not create; someone else may get credit for our 
-contributions; or an institution such as a publisher, funding agency, or university 
+>in 2018 there were about 42,500 active peer reviewed journals publishing about 3 million articles a year. The number of articles published each year and the number of journals have both grown steadily for over two centuries, by about 3% and 3.5% per year respectively. However, growth has accelerated to 4% per year for
+articles and over 5% for journals in recent years. 
+>The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors
+>China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%) and around one third of the literature is available legally and freely via Open Access. (https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf)
+
+
+
+These circumstances mean that, on the scholarly web of data, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. COnversely, an author whose name changes over time may fail to receive credit for all of his or her works (splitting). An institution such as a publisher, funding agency, or university 
 may not be able to validate who is responsible for a work. For all these reasons, 
 the scholarly web works better when each of us as researchers has a unique, 
 persistent identifier. Just as DOI's pinpoint an exact research contribution, an 
 Online Contributor Researcher ID (ORCID iD, pronounced like the lovely flower) 
 creates a unique, persistent identifier for an individual researcher.
+The illustration below depicts the problems associated with name confusion.
 
-Check out these two ORCID profiles: [Carol
-Finn](https://orcid.org/0000-0003-3144-1645) and [Carol
-Finn](https://orcid.org/0000-0002-6178-0405)
 
-These two researchers have the same name. Looking at their employment they even work for the same 
-agency in the same state!  If not for their unique ORCIDs, these two highly productive 
-researchers could be easily confused by both humans and computers. 
 
-<img src="img/orcid_example.png" alt="Example ORCiD data for two researchers"
-width="1000px">
+
 
 ---
 
@@ -40,13 +39,16 @@ Point your web browser to http://orcid.org and follow the directions to register
 
 If you already have an ORCID but don't remember the number and password, please consult the ORCID help page at <https://support.orcid.org/knowledgebase/articles/895944-how-do-you-check-for-duplicate-orcid-records>. If you end up with two ORCID accounts, you can work with ORCID tech support to merge them per the instructions at <https://orcid.org/blog/2017/03/15/new-feature-alert>.
 
-### Exercise 2. Add a Biography to your ORCID profile for use in other trusted Web services
+### Exercise 2. Populate some of the data in your ORCID profile to begin leveraging the benefits of the ORCID.  Add an alternate name in the "also known as" field; compose a brief biography in the "Biography"" field; and add one or more entries into the "Education" and "Employment" sections. 
+
+Refer to the illustration below for an example of Hugh Shanahan's ORCID profile showing data that has been added to basic fields.
+
+![Hugh's ORCID profile](xxx)
+
+Later on in this workshop we will see how data in the ORCID profile can be harvested and used in other trusted Web services you choose to engage with, reducing the need to re-enter information about your professional life over and over.
 
 When you log into your ORCID account, you will land on your profile page <https://orcid.org/my-orcid> with buttons enabling you to add new data or edit existing data.
 
-Write a brief biography and make sure to set it to public view, as shown in the screen shot below.
-
-![Screenshot of an ORCID Biography](img/orcid_bio.jpg)
 
 ---
 
