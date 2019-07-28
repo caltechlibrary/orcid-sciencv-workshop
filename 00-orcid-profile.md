@@ -39,15 +39,26 @@ Point your web browser to http://orcid.org and follow the directions to register
 
 If you already have an ORCID but don't remember the number and password, please consult the ORCID help page at <https://support.orcid.org/knowledgebase/articles/895944-how-do-you-check-for-duplicate-orcid-records>. If you end up with two ORCID accounts, you can work with ORCID tech support to merge them per the instructions at <https://orcid.org/blog/2017/03/15/new-feature-alert>.
 
-### Exercise 2. Populate some of the data in your ORCID profile to begin leveraging the benefits of the ORCID.  Add an alternate name in the "also known as" field; compose a brief biography in the "Biography"" field; and add one or more entries into the "Education" and "Employment" sections. 
+### Exercise 2. Populate some of the data in your ORCID profile to begin leveraging the benefits of the ORCID.  
+After creating an ORCD iD and validating your e-mail address, you'll have
+access to edit and extend your ORCID profile. You'll notice that your ORCID profile includes areas for you to enter CV-like data. You can enter as much or as little as you like: depending on your privacy settings, this information is what other people or
+computer systems will see when they look up your ORCID.
 
 Refer to the illustration below for an example of Hugh Shanahan's ORCID profile showing data that has been added to basic fields.
-
 ![Hugh's ORCID profile](xxx)
+
+----
+
+#### Exercise 2a.
+Add an alternate name in the "also known as" field; compose a brief biography in the "Biography"" field; and add one or more entries into the "Education" and "Employment" sections. 
+
+#### Exercise 2b.
+Set the privacy settings on the data in your profile.
+
+
 
 Later on in this workshop we will see how data in the ORCID profile can be harvested and used in other trusted Web services you choose to engage with, reducing the need to re-enter information about your professional life over and over.
 
-When you log into your ORCID account, you will land on your profile page <https://orcid.org/my-orcid> with buttons enabling you to add new data or edit existing data.
 
 
 ---
@@ -57,7 +68,7 @@ Welcome to the global scholarly web where, thanks to ORCID:
 - You get credit for all your work and contributions 
 - No one claims your works as their own
 - Publishers, Funders, and Colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
-- You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems 
+- You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems. For exmple, the United States National Institute of health (NIH) now requires all proposal authors to include their ORCID ID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
     + Publishers that require author ORCIDs are listed at <https://orcid.org/content/requiring-orcid-publication-workflows-open-letter>
     + Funders with ORCID policies are listed at <https://orcid.org/organizations/funders/policies>
     + Institutions that have integrated ORCID are listed at <https://orcid.org/members> 

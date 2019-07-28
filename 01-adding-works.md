@@ -6,20 +6,13 @@
 
 ## Learning Objectives
 
-* Enter works in your ORCID profile using multiple approaches
-    * Perform a manual entry 
-    * Crossref or DataCite wizard
-    * Upload a BibTex publications list
-* Compare displayed citations from various input approaches and deduplicate records
-* Export BibTex citations from ORCID profile for reuse in other systems 
+* Enter research contributions to the Works section of your ORCID profile using three different approaches
+* Compare displayed citations added by these different approaches; practice editing a record, once added; and manage duplicate records
+*
 
-After creating an ORCD iD and validating your e-mail address, you'll have
-access to your ORCID profile. You'll notice that your ORCID profile includes areas 
-for you to enter CV-like material. You can enter as much or as little as you like: 
-depending on your privacy settings, this information is what other people or
-computer systems will see when they look up your ORCID.
 
-![Blank ORCiD profile in a newly-created account](img/blankProfile.jpg)
+
+
 
 ---
 
