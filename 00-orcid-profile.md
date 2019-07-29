@@ -10,25 +10,26 @@
 * Recognize the three  privacy settings that ORCID supports and apply the desired setting to the data in your ORCID profile
 
 -----
+## Introduction
 
 The scholarly web is exploding in size and complexity as more research outputs are published online across a plethora of platforms using a diversity of filetypes and formats. According to the International Association of STM Publishers:
->
-* In 2018 there were about 42,500 active peer reviewed journals publishing about 3 million articles a year. 
-* The number of articles published each year and the number of journals have both grown steadily for over two centuries, by about 3% and 3.5% per year respectively. However, growth has accelerated to 4% per year for
-articles and over 5% for journals in recent years. 
-* The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors
-* China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%) and around one third of the literature is available legally and freely via Open Access. 
+<blockquote>
+<table>
+<tr><td>In 2018 there were about 42,500 active peer reviewed journals publishing about 3 million articles a year. </br></br>
+</td></tr>
+<tr><td>The number of articles published each year and the number of journals have both grown steadily for over two centuries, by about 3% and 3.5% per year respectively. However, growth has accelerated to 4% per year for
+articles and over 5% for journals in recent years. </br></br></td></tr>
+<tr><td>The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors. </br></br></td></tr>
+<tr><td>Around one third of the scientific/technical literature is available legally and freely via Open Access. </br></br></td></tr>
+<tr><td>China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%)</br></br> </td></tr>
+<tr><td>[Source: STM Report 2018](https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf)</br></br></td></tr>
+</table>
+</blockquote>
 
->[Source: STM Report 2018](https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf)
+These circumstances mean that, on the exploding scholarly web, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works. An institution such as a publisher, funding agency, or university 
+may not be able to validate who is responsible for a work.
 
-
-
-These circumstances mean that, on the scholarly web of data, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works (splitting). An institution such as a publisher, funding agency, or university 
-may not be able to validate who is responsible for a work. For all these reasons, 
-the scholarly web works better when each researcher has a unique, 
-persistent identifier that humans and machines can understand. Just as Digital Object identifiers (DOI) pinpoint an exact research contribution, an 
-Online Contributor Researcher ID (ORCID, pronounced like the lovely flower) 
-creates a unique, persistent identifier for an individual researcher.
+For all these reasons, the scholarly web works better when each researcher has a unique, persistent identifier that humans and machines can understand. Just as Digital Object identifiers (DOI) pinpoint an exact research contribution, an Online Contributor Researcher ID (ORCID, pronounced like the lovely flower) pinpoints an individual researcher.
 
 ---
 
@@ -46,7 +47,7 @@ access to edit and extend your ORCID profile. You'll notice that your ORCID prof
 computer systems will see when they look up your ORCID.
 
 Refer to the illustration below for an example of Hugh Shanahan's ORCID profile showing data that has been added to basic fields and set to display openly to the world.
-![Hugh's ORCID profile](img/orcid1-500.png)
+![Hugh's ORCID profile](img/orcid1.jpg)
 
 ----
 
@@ -57,22 +58,20 @@ Click on the link for 'Edit' and add an alternate name in the "also known as" fi
 #### Exercise 3b.
 Set the privacy settings for each data field in your ORCID profile, using the illustration below as a guide
 
-![ORCID Privacy settings](img/orcid2.png)
+![ORCID Privacy settings](img/orcid2.jpg)
 
-
+-----
 
 Later on in this workshop we will see how data in the ORCID profile can be harvested and used in other trusted Web services you choose to engage with, reducing the need to re-enter information about your professional life over and over.
 
-
-
----
-
-Welcome to the global scholarly web where, thanks to ORCID:
+Welcome to the global scholarly web where, thanks to ORCID,
 
 - You get credit for all your work and contributions 
-- No one claims your works as their own
-- Publishers, Funders, and Colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
-- You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems. For exmple, the United States National Institute of health (NIH) now requires all proposal authors to include their ORCID ID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
+- No one claims your work as their own
+- Publishers, funders, and colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
+- You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems. 
+- For example, the United States National Institutes of Health (NIH) now requires all proposal authors to include their ORCID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
+- Related links
     + Publishers that require author ORCIDs are listed at <https://orcid.org/content/requiring-orcid-publication-workflows-open-letter>
     + Funders with ORCID policies are listed at <https://orcid.org/organizations/funders/policies>
     + Institutions that have integrated ORCID are listed at <https://orcid.org/members> 

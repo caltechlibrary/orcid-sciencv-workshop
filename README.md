@@ -1,7 +1,7 @@
 Establishing Scholarly Identity with the Online Research Contributor Identifier (ORCID)
 =======
 
-![](img/orcid.png) 
+![](img/orcid.jpg) 
 
 ## Learn about managing your ORCID profile.  
 
