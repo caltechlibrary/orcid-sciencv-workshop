@@ -6,7 +6,7 @@
 
 ## Learning Objectives
 
-* Enter research contributions to the Works section of your ORCID profile using three different approaches
+* Enter research contributions to the "Works"" section of your ORCID profile using three different approaches
 * Compare displayed citations added by these different approaches; practice editing a record, once added; and manage duplicate records
 *
 
