@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 #  Adding Works to your ORICD profile
 
 45 Minutes
@@ -13,11 +18,46 @@
 
 ---
 
-## Exercise 2A. Add a work to your ORCID Profile using its Digital Object Identifier (DOI)
+## Exercise 1. Add a work to your ORCID Profile using its Digital Object Identifier (DOI)
 
 In the 'Works' section of the ORCID profile, click on the Tab '+ Add Works'. Select the option 'Add DOI'. A dialog box will display for 'ADD WORK'. In the blank text box, enter the DOI for the work you wish to add. The illustration below shows how to add a paper from Hugh Shanahan's ORCID profile, using the DOI `10.1016/j.cbpa.2009.04.470` but you are encouraged to add a DOI for your own work instead!
 
-![Add work using DOI](img/orcid3_500.jpg)
+![___Figure 1a. Work added using DOI___](img/orcid3_500.jpg)
+
+-----
+
+Click on the blue button 'Retrieve work details' and a metadata form will display with details populated from the DOI record. Leave the form as is; scroll to the bottom to set the privacy to 'Trusted', and click 'Add to list'.
+
+![___Figure 1b. Confirm added work___](img/orcid4_500.jpg)
+
+-----
+
+Back in your ORCID profile, refresh the 'Works' section by clicking on the 'Sort' button and select 'Title'. Now look on the screen to make sure the work you just added displays. 
+The illustration below shows the displayed version of Hugh Shanahan's work associated with `10.1016/j.cbpa.2009.04.470`.  
+
+![___Figure 1c. View added work___](img/orcid5_500.jpg)
+
+-----
+
+
+-------------------------
+
+## Exercise 2. Add a work to your ORCID Profile using the 'Search & link' tool
+
+In the 'Works' section of the ORCID profile, click on the Tab '+ Add Works'. Select the option 'Search & link; a long list of searchable databases will display. Scroll to the link for "CrossRef Metadata Search".
+
+The link takes you to the database for the CrossRef DOI Registration agency, while you are still logged into your ORCID account (see your name and the ORCID logo in the top right corner of the screen). Most publishers use CrossRef to register DOIs for their articles, book chapters, and proceedings.
+
+In the search box at the top of the screen, enter the title for a work you wish to add to your ORCID. If you are following along using Hugh Shanahan's work as a test, enter the title for one of his journal articles, as illustrated below.
+
+![___Figure 2a. Search for Crossref record___](img/orcid6_700.jpg)
+
+Note that in the bottom right corner of the CrossRef record appears a little ORCID logo next to 'ADD TO ORCID'. Click this link to copy the record into your ORCID profile. You will be prompted to confirm that you wish to add this record to ORCID; click 'YES'.
+
+
+![___Figure 2b. Add Crossref record___](img/orcid7_500.jpg)
+
+-----
 
 
 
@@ -25,42 +65,6 @@ In the 'Works' section of the ORCID profile, click on the Tab '+ Add Works'. Sel
 
 
 
-
-
-
-
-
-Add a citation to your profile manually using the menu option under "Add
-works".
-
-![Blank Works section of newly-created account](img/manualAddWorks.jpg)
-
-## Solution 2A
-
-> > There is a detailed form with lots of options.  Discuss the pros and cons of doing a
-> > manual upload.
-> > ![Detail screen for manual add feature.](img/manualAddDetail.jpg)
-
----
-
-> ## Exercise 2B. Use a wizard to add citations to your ORCID Profile
-> Use the "Search & link" option to select the CrossRef or DataCite wizard 
-> to find and add content to your ORCID profile.
-> 
-> > ## Solution 2B
-> > ![Blank Works section of newly-created account](img/AddWorks.jpg)
-> >
-> > Go to Add works -> Search & link -> CrossRef or DataCite.  Try searching by
-> > name, ORCID, or other options. Discuss the quality of the citations.
-
----
-
-> ## Exercise 2C. Add your BibTex citations to your ORCID Profile
-> Take a list of BibTex citations generated in the DOI lesson and add them to
-> your profile
-> 
-> > ## Solution 2C
-> > Go to Add works -> Import BibTex.  How well did the import do?
 
 ---
 
