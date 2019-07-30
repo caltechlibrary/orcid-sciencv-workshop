@@ -18,7 +18,7 @@
 
 In the 'Works' section of the ORCID profile, click on the Tab '+ Add Works'. Select the option 'Add DOI'. A dialog box will display for 'ADD WORK'. In the blank text box, enter the DOI for the work you wish to add. The illustration below shows how to add a paper from Hugh Shanahan's ORCID profile, using the DOI `10.1016/j.cbpa.2009.04.470` but you are encouraged to add a DOI for your own work instead!
 
-![___Figure 1a. Work added using DOI___](img/orcid3_500.jpg)
+![___Figure 1a. Work added using DOI___](c:/Users/gclement/Projects/orcid-profile/img/orcid3_500.jpg)
 
 -----
 
