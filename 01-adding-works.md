@@ -6,25 +6,37 @@
 
 ## Learning Objectives
 
-* Enter research contributions to the "Works"" section of your ORCID profile using three different approaches
-* Compare displayed citations added by these different approaches; practice editing a record, once added; and manage duplicate records
-*
-
-
-
-
+* Enter research contributions to the 'Works' section of your ORCID profile using three different methods
+* Compare displayed citations added by these different methods
+* Practice editing a record, once added from a preferred source
+* Manage duplicate records
 
 ---
 
-> ## Exercise 2A. Manually add a citation to your ORCID Profile
->
-> Add a citation to your profile manually using the menu option under "Add
-> works".
->
-> ![Blank Works section of newly-created account](img/manualAddWorks.jpg)
->
-> > ## Solution 2A
-> >
+## Exercise 2A. Add a work to your ORCID Profile using its Digital Object Identifier (DOI)
+
+In the 'Works' section of the ORCID profile, click on the Tab '+ Add Works'. Select the option 'Add DOI'. A dialog box will display for 'ADD WORK'. In the blank text box, enter the DOI for the work you wish to add. The illustration below shows how to add a paper from Hugh Shanahan's ORCID profile, using the DOI `10.1016/j.cbpa.2009.04.470` but you are encouraged to add a DOI for your own work instead!
+
+![Add work using DOI](img/orcid3_500.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+Add a citation to your profile manually using the menu option under "Add
+works".
+
+![Blank Works section of newly-created account](img/manualAddWorks.jpg)
+
+## Solution 2A
+
 > > There is a detailed form with lots of options.  Discuss the pros and cons of doing a
 > > manual upload.
 > > ![Detail screen for manual add feature.](img/manualAddDetail.jpg)

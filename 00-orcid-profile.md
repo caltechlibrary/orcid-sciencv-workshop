@@ -51,7 +51,7 @@ Refer to the illustration below for an example of Hugh Shanahan's ORCID profile 
 
 #### Exercise 3a.
 
-Click on the link for 'My ORCID Record' in the top of the ORCID page to edit your profile. 
+* Click on the link for 'My ORCID Record' in the top of the ORCID page to edit your profile. 
 * Add an alternate name in the 'also known as' field; 
 * Compose a brief biography in the 'Biography'' field; 
 * Add one or more entries into the 'Education' and 'Employment' sections. 
@@ -77,7 +77,7 @@ Welcome to the global scholarly web where, thanks to ORCID,
 - Publishers, funders, and colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
 - You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems. 
     - For example, the United States National Institutes of Health (NIH) now requires all proposal authors to include their ORCID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
-- Related links
+- Related links:
     + Publishers that require author ORCIDs are listed at <https://orcid.org/content/requiring-orcid-publication-workflows-open-letter>
     + Funders with ORCID policies are listed at <https://orcid.org/organizations/funders/policies>
     + Institutions that have integrated ORCID are listed at <https://orcid.org/members> 
