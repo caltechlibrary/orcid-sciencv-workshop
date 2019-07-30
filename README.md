@@ -26,7 +26,8 @@ http://authorcarpentry.github.io/orcid-profile
     * Use the Search & Link tool 
     * Upload a BibTex citation 
 * Compare displayed citations from various input approaches and recognize display differents based on different data sources
-* Register for an author profile with a third party system (eg, ScienceOpen, ImpactStory, MySciEnCV) using your ORCID number and observe that the third party profile autopopulates with data in your ORCID account
+* Register for an author profile with a third party system (eg, ScienceOpen, ImpactStory, MySciEnCV) using your ORCID number.
+* Observe that the third party profile autopopulates with data in your ORCID account
 
 -----
 
@@ -47,8 +48,7 @@ workflow.
 
 * Three citations to your works, including at least two with Digital Object Identifiers issued by CrossRef. 
 * For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). 
-
-Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) and loves when students use his ORCiD!
+* Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) and loves when students use his ORCiD!
 
 -----
 

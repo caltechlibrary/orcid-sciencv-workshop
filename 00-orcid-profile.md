@@ -7,7 +7,7 @@
 
 * Register for an ORCID account and activate it (or look up an existing ORCID)
 * Sign in to your ORCID account and edit your profile by populating basic account fields
-* Recognize the three  privacy settings that ORCID supports and apply the desired setting to the data in your ORCID profile
+* Recognize the three privacy settings that ORCID supports and apply the desired setting to the data in your ORCID profile
 
 -----
 
@@ -22,7 +22,7 @@ The scholarly web is exploding in size and complexity as more research outputs a
 | "The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors."| 
 | "Around one third of the scientific/technical literature is available legally and freely via Open Access."|
 | "China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%)" 
-| Source:<https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf>
+| Source: [The STM Report: An overview of scientific and scholarly publishing](https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf).(Fifth edition, October 2018, Online: https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf).
 
 These circumstances mean that, on the scholarly web, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works. An institution such as a publisher, funding agency, or university 
 may not be able to validate who is responsible for a work.
@@ -52,31 +52,31 @@ Refer to the illustration below for an example of Hugh Shanahan's ORCID profile 
 #### Exercise 3a.
 
 Click on the link for 'My ORCID Record' in the top of the ORCID page to edit your profile. 
-* Add an alternate name in the "also known as" field; 
-* Compose a brief biography in the "Biography"" field; 
-* Add one or more entries into the "Education" and "Employment" sections. 
+* Add an alternate name in the 'also known as' field; 
+* Compose a brief biography in the 'Biography'' field; 
+* Add one or more entries into the 'Education' and 'Employment' sections. 
 
 #### Exercise 3b.
 
 Set the privacy settings for each data field you completed in your ORCID profile, using the illustration below as a guide.
 
 * everyone = this data is visible to everyone around the world with Web access
-* trusted parties = data with this setting are visible and editable to trusted third parties for whom you grant permission 
-* only me = the data is visible to you only when you are logged in to your ORCId account
+* trusted parties = data tagged with this setting are visible and editable only to trusted third parties for whom you grant permission 
+* only me = the data is visible to you only when you are logged in to your ORCID account
 
 ![ORCID Privacy settings](img/orcid2.jpg)
 
-**Note that your preferred name and ORCID number are always set to 'everyone' as an ORCID policy.**
+**Note that your preferred name and ORCID number are always set to be visible by 'everyone', as an ORCID policy.**
 
 -----
 
 Welcome to the global scholarly web where, thanks to ORCID,
 
-- You get credit for all your work and contributions 
+- You get credit for all your work and contributions, regardless of any variations in your author name 
 - No one claims your work as their own
 - Publishers, funders, and colleagues don't get confused whether a given research work is yours or someone's with a similar or same name!
 - You are able to comply with Publisher, Funder, or Institutional mandates that require you to provide an ORCID number in their systems. 
-- For example, the United States National Institutes of Health (NIH) now requires all proposal authors to include their ORCID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
+    - For example, the United States National Institutes of Health (NIH) now requires all proposal authors to include their ORCID in their applications. See the July 19, 2019 [NIH notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-109.html) for details. 
 - Related links
     + Publishers that require author ORCIDs are listed at <https://orcid.org/content/requiring-orcid-publication-workflows-open-letter>
     + Funders with ORCID policies are listed at <https://orcid.org/organizations/funders/policies>
