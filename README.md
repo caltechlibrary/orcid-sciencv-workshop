@@ -1,7 +1,7 @@
 Establishing Scholarly Identity with the Online Research Contributor Identifier (ORCID)
 =======
 
-![](img/orcid.jpg) 
+![](img/orcid_100.jpg) 
 
 ## Learn about managing your ORCID profile.  
 
@@ -12,21 +12,21 @@ http://authorcarpentry.github.io/orcid-profile
 
 *Lesson Maintainers: Gail Clement, Tom Morrell*
 
-**Lesson status: In Development**
+**Lesson status: In Development.**
 
 -----
 
 ## What you will learn:
 
-* Register for an ORCID account and activate it (or look up an existing ORCiD)
+* Register for an ORCID account and activate it (or look up an existing ORCID)
 * Sign in to your ORCID account and edit your profile by populating basic account fields
 * Apply desired privacy settings to the data in your ORCID profile
 * Enter works in your ORCID profile using three different approaches:
-    * Enter a Digital Object Identifier (DOI) and harvest the associated metadata for that work into your ORCID profile
-    * Use the Search & Link tool to find an article from the CrossRef (DOI agency) database to import to your ORCID profile
-    * Upload a BibTex citation to your ORCID profile
+    * Enter a Digital Object Identifier (DOI) 
+    * Use the Search & Link tool 
+    * Upload a BibTex citation 
 * Compare displayed citations from various input approaches and recognize display differents based on different data sources
-* Register for an author profile with a third party system (eg, ScienceOpen, ImpactStory, MySciEnCV) using your ORCID number and observe that the 3rd party profile autopopulates with data in your ORCID account
+* Register for an author profile with a third party system (eg, ScienceOpen, ImpactStory, MySciEnCV) using your ORCID number and observe that the third party profile autopopulates with data in your ORCID account
 
 -----
 
@@ -46,7 +46,9 @@ workflow.
 *Before* working through this lesson you will need: 
 
 * Three citations to your works, including at least two with Digital Object Identifiers issued by CrossRef. 
-* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) and loves when students use his ORCiD!
+* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). 
+
+Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) and loves when students use his ORCiD!
 
 -----
 
