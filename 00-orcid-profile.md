@@ -58,13 +58,17 @@ Click on the link for 'My ORCID Record' in the top of the ORCID page to edit you
 
 #### Exercise 3b.
 
-Set the privacy settings for each data field you completed in your ORCID profile, using the illustration below as a guide
+Set the privacy settings for each data field you completed in your ORCID profile, using the illustration below as a guide.
+
+* everyone = this data is visible to everyone around the world with Web access
+* trusted parties = data with this setting are visible and editable to trusted third parties for whom you grant permission 
+* only me = the data is visible to you only when you are logged in to your ORCId account
 
 ![ORCID Privacy settings](img/orcid2.jpg)
 
------
+**Note that your preferred name and ORCID number are always set to 'everyone' as an ORCID policy.**
 
-Later on in this workshop we will see how data in the ORCID profile can be harvested and used in other trusted Web services you choose to engage with, reducing the need to re-enter information about your professional life over and over.
+-----
 
 Welcome to the global scholarly web where, thanks to ORCID,
 
