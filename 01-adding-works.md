@@ -1,9 +1,5 @@
 ---
-output:
-  html_document: default
-  pdf_document: default
----
-#  Adding Works to your ORICD profile
+#  Adding Works to your ORCID profile
 
 45 Minutes
 
@@ -37,6 +33,10 @@ The illustration below shows the displayed version of Hugh Shanahan's work assoc
 
 ![___Figure 1c. View added work___](img/orcid5_500.jpg)
 
+Note that at the bottom of this record in your ORCID 'Works' list, the 'Source:' is credited as your name. That means that that this record was imported by you and is editable by you. It is not a authoritative record from a 'trsuted' source -- a data provider with which ORCID has established a trusted relationship. 
+
+Because this record was added by you, you may edit this record to your heart's content.  In the bottom right corner of the record, click on the pencil icon to open up the record for editing. When the metadata template opens up, you may change a field or add data to an empty field. For this record, add a few words to the 'Description' field (for example, type "This is my paper"" or "I borrowed this paper from Hugh for testing purposes"). Save and close the record.
+
 -----
 
 
@@ -56,6 +56,12 @@ Note that in the bottom right corner of the CrossRef record appears a little ORC
 
 
 ![___Figure 2b. Add Crossref record___](img/orcid7_500.jpg)
+
+referesh your ORCID profile again and sort your 'Works' by title. Note that at the bottom of this record in your ORCID 'Works' list, the 'Source:'Crossref Metadata Search'. That means that that this is an authoritative record that the trusted metadata provider CrossRef guarantees is theirs. Note that you are not able to edit this record. The icon in the bottom right corner is a 'fork' symbol -- not a pencil!  
+
+ 
+
+Because this record was added by you, you may edit this record to your heart's content.  In the bottom right corner of the record, click on the pencil icon to open up the record for editing. When the metadata template opens up, you may change a field or add data to an empty field. For this record, add a few words to the 'Description' field (for example, type "This is my paper"" or "I borrowed this paper from Hugh for testing purposes"). Save and close the record.
 
 -----
 
