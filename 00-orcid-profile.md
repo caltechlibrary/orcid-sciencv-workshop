@@ -10,26 +10,24 @@
 * Recognize the three  privacy settings that ORCID supports and apply the desired setting to the data in your ORCID profile
 
 -----
+
 ## Introduction
 
-The scholarly web is exploding in size and complexity as more research outputs are published online across a plethora of platforms using a diversity of filetypes and formats. According to the International Association of STM Publishers:
-<blockquote>
-<table>
-<tr><td>In 2018 there were about 42,500 active peer reviewed journals publishing about 3 million articles a year. </br></br>
-</td></tr>
-<tr><td>The number of articles published each year and the number of journals have both grown steadily for over two centuries, by about 3% and 3.5% per year respectively. However, growth has accelerated to 4% per year for
-articles and over 5% for journals in recent years. </br></br></td></tr>
-<tr><td>The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors. </br></br></td></tr>
-<tr><td>Around one third of the scientific/technical literature is available legally and freely via Open Access. </br></br></td></tr>
-<tr><td>China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%)</br></br> </td></tr>
-<tr><td>[Source: STM Report 2018](https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf)</br></br></td></tr>
-</table>
-</blockquote>
+The scholarly web is exploding in size and complexity as more research outputs are published online across a plethora of platforms using a diversity of filetypes and formats. 
 
-These circumstances mean that, on the exploding scholarly web, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works. An institution such as a publisher, funding agency, or university 
+|According to the International Association of STM Publishers: |
+| -------------------------------------------------------------|
+| "In 2018 there were about 42,500 active peer reviewed journals publishing about 3 million articles a year."|
+| "The number of articles published each year and the number of journals have both grown steadily for over two centuries, by about 3% and 3.5% per year respectively. However, growth has accelerated to 4% per year for articles and over 5% for journals in recent years."|  
+| "The reason is the continued growth in research and development expenditure, and the rising number of researchers, which now stands at between 7 and 8 million, depending on definition, although only about 20% of these are repeat authors."| 
+| "Around one third of the scientific/technical literature is available legally and freely via Open Access."|
+| "China is now the pre-eminent producer of papers globally (19%) surpassing the US (18%)" 
+| Source:<https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf>
+
+These circumstances mean that, on the scholarly web, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works. An institution such as a publisher, funding agency, or university 
 may not be able to validate who is responsible for a work.
 
-For all these reasons, the scholarly web works better when each researcher has a unique, persistent identifier that humans and machines can understand. Just as Digital Object identifiers (DOI) pinpoint an exact research contribution, an Online Contributor Researcher ID (ORCID, pronounced like the lovely flower) pinpoints an individual researcher.
+For all these reasons, the scholarly web works better when each researcher has a unique, persistent identifier that humans and machines can understand. Just as a Digital Object identifier (DOI) pinpoints an exact research contribution, an Online Contributor Researcher ID (ORCID, pronounced like the lovely flower) pinpoints an individual researcher.
 
 ---
 
@@ -53,10 +51,14 @@ Refer to the illustration below for an example of Hugh Shanahan's ORCID profile 
 
 #### Exercise 3a.
 
-Click on the link for 'Edit' and add an alternate name in the "also known as" field; compose a brief biography in the "Biography"" field; and add one or more entries into the "Education" and "Employment" sections. 
+Click on the link for 'My ORCID Record' in the top of the ORCID page to edit your profile. 
+* Add an alternate name in the "also known as" field; 
+* Compose a brief biography in the "Biography"" field; 
+* Add one or more entries into the "Education" and "Employment" sections. 
 
 #### Exercise 3b.
-Set the privacy settings for each data field in your ORCID profile, using the illustration below as a guide
+
+Set the privacy settings for each data field you completed in your ORCID profile, using the illustration below as a guide
 
 ![ORCID Privacy settings](img/orcid2.jpg)
 
