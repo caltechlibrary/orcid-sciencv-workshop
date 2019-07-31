@@ -39,8 +39,6 @@ Note that at the bottom of this record in your ORCID 'Works' list, the 'Source:'
 
 For this record, add a few words to the 'Description' field (for example, type "This is my paper" or "I borrowed this paper from Hugh for testing purposes"). Save and close the record.
 
------
-
 
 -------------------------
 
@@ -75,27 +73,71 @@ The CrossRef record is locked from editing because it is an authoritative data s
 
 The trusted integration between CrossRef and ORCID has another benefit: it allows your ORCID profile to automatically update whenever you publish a new work that has a CrossRef DOI!  And the publication metadata added to your ORCID will be accurate and authoritative.
 
+### ORCID-CrossRef Synch Step 1.
 To perform the synch step, return to CrossRef while you are still logged into your ORCID profile. Look for the ORCID icon and your name in the top right corner of the CrossRef screen, as shown below. Click on your name to display the drop-down menu.
 
 
 ![___Figure 3a. Step 1 of ORCID-Crossref-Synch___](img/crossref-synch_600.jpg)
 
-</br></br>
+### ORCID-CrossRef Synch Step 2.
 
-Select 'Settings' and confirm you wish to synch by clicking the orange 'Sync with ORCID' button.
+Select 'Settings'
 
 ![___Figure 3b. Step 2 of ORCID-Crossref-Synch___](img/crossref-synch2.jpg)
 
-</br></br>
+### ORCID-CrossRef Synch Step 3.
+
+Confirm you wish to synch by clicking the orange 'Sync with ORCID' button.
 
 ![___Figure 3c. Step 3 of ORCID-Crossref-Synch___](img/crossref-synch3_700.jpg)
 
-</br></br>
+### ORCID-CrossRef Synch Step 4.
 
 Return to your ORCID profile and click on 'Account Settings' at near the top of the screen. You will now see that have authorized CrossRef to update your ORCID profile as your new publications are released. You may revoke this permission anytime by clicking the delete button displayed on the right side of the CrossRef permission.
 
 ![___Figure 3d. View permission in ORCID___](img/crossref-synch4_600.jpg)
 
+
+-------------------------
+
+## Exercise 4. Add a work to your ORCID Profile by uploading a BibTeX file
+
+There is no universal coding format for scholarly citations: some systems use XML, others use JSON, and yet others use LaTeX and its bibliography syntax known as BibTeX. The ORCID system accepts BibTeX.
+
+To get the BibTeX citation depends on the platform that provides the citation. Many publisher sites offer the option of downloading the citation in BibTeX. For this exercise, we will capture the BibTeX 
+for one of Hugh Shanahan's conference abstracts and upload it to ORCID as a test.
+
+### BibTeX Step 1.
+
+Point your web browser to [Hugh's publications page](http://www.shanahanlab.org/?COLLCC=1022692939&) at http://www.shanahanlab.org/?COLLCC=1022692939&. Under '2019', click on his submitted paper '9 Simple recommendations for teaching data skills'. This sounds like a very interesting paper, right?!
+
+### BibTeX Step 2. 
+
+Click on the Tab 'Cite this' and scroll down the page until you see the option for 'BibTeX. Starting with the `@` at the beginning of the code and continuing down to the ending `}`, copy all of this code. Make sure to catch to `@` and the `}` on either end.
+
+### BibTeX Step 3. 
+
+Open a plain text file in Notepad, Wordpad, or another editor of your chouce and paste in the BibTeX code. Make sure there is no space or character before the leading `@` and the after the ending `}`. Save the plain text file as 'Hugh.bib'
+
+### BibTeX Step 4. 
+
+Back in your ORCID profile in the 'Works' section, click on 'Add works' select the option to upload a BibTeX file, as shown below.
+
+![___Figure 4a. Add BibTeX___](img/orcid11-bibtex.jpg)
+
+An upload prompt will display, so browse to your desktop and select the file 'Hugh.bib'
+
+![___Figure 4b. Select BibTeX file___](img/orcid15_700.png)
+
+Save the uploaded file by clicking on the little green icon that looks like either an old-fashioned computer disk or a hotel bed.
+
+![___Figure 4c. Review BibTeX___](img/orcid16.png)
+
+Hugh's abstract is now added to your ORCID profile as a test!
+
+## Exercise 5 (Mandatory!)
+
+Delete any works you added from Hugh's publication list because they were just for testing, and we understand the importance of giving credit where due! 
 
 
 ---
