@@ -27,7 +27,7 @@ http://authorcarpentry.github.io/orcid-profile
     * Upload a BibTex citation 
 * Compare displayed citations from various input approaches and recognize display differents based on different data sources
 * Register for an author profile with a third party system (eg, ScienceOpen, ImpactStory, MySciEnCV) using your ORCID number.
-* Observe that the third party profile autopopulates with data in your ORCID account
+* Observe that the third party profile auto-populates with data in your ORCID account.
 
 -----
 
@@ -47,8 +47,8 @@ workflow.
 *Before* working through this lesson you will need: 
 
 * Three citations to your works, including at least two with Digital Object Identifiers issued by CrossRef. 
-* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). 
-* Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) and loves when students use his ORCiD!
+* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). For the BibTeX exercise, we use a conference paper from [Hugh's publications page](https://pure.royalholloway.ac.uk/portal/en/persons/hugh-shanahan(77128df7-1747-4d9f-8fe5-c11d30e77abc)/publications.html) at Royal Holloway.
+* Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) so thank him for allowing us to 'borrow' his publications for testing purposes during the School at DataTrieste19!
 
 -----
 
