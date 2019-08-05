@@ -35,6 +35,7 @@ http://authorcarpentry.github.io/orcid-profile
 
 1. [Your OrCiD Profile](00-orcid-profile.html)
 2. [Adding Works](01-adding-works.html)
+3. [Leveraging Your ORCID](02-orcid-benefits.html)
 
 -----
 
@@ -47,8 +48,9 @@ workflow.
 *Before* working through this lesson you will need: 
 
 * Three citations to your works, including at least two with Digital Object Identifiers issued by CrossRef. 
-* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). For the BibTeX exercise, we use a conference paper from [Hugh's publications page](https://pure.royalholloway.ac.uk/portal/en/persons/hugh-shanahan(77128df7-1747-4d9f-8fe5-c11d30e77abc)/publications.html) at Royal Holloway.
-* Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) so thank him for allowing us to 'borrow' his publications for testing purposes during the School at DataTrieste19!
+* For demonstration purposes in this lesson, we are using the "Works" entries publicly displayed on [Hugh Shanahan's ORCID profile](https://orcid.org/0000-0003-1374-6015) at [https://orcid.org/0000-0003-1374-6015](https://orcid.org/0000-0003-1374-6015). For the BibTeX exercise, we use a conference paper from [Hugh's publications page]
+(https://pure.royalholloway.ac.uk/portal/en/persons/hugh-shanahan(77128df7-1747-4d9f-8fe5-c11d30e77abc).html) at Royal Holloway.
+* Hugh is co-chair of the [CODATA-RDA schools in Research Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools) so thank him for allowing us to 'borrow' his publications for testing purposes during the School at [DataTrieste19](http://indico.ictp.it/event/8706/)!
 
 -----
 

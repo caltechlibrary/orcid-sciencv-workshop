@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Author Carpentry</title>
+    <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<header>
+<a href="http://authorcarpentry.github.io"><img src="img/AClogo.jpg" alt="Author Carpentry logo"></a>
+</header>
+<nav>
+<ul>
+<li><a href=".">Lesson</a></li>
+<li><a href="00-orcid-profile.html">Your ORCID Profile</a></li>
+<li><a href="01-adding-works.html">Adding Works</a></li>
+<li><a href="02-orcid-benefits.html">Advanced: ORCID API</a></li>
+<li><a href="REFERENCES.html">References</a></li>
+<li><a href="mailto:authorcarpentry@library.caltech.edu">Contact Us</a></li>
+</ul>
+
+</nav>
+
+<section>
+<h1>Benefits of using your ORCID iD</h1>
+
+<p>20 Minutes</p>
+
+<hr>
+
+<h2>Learning Objectives</h2>
+
+<ul>
+<li>See how ORCID can be used as a central storage location for your works</li>
+<li>Experience integrating your ORCID account with another service</li>
+<li>Advanced: Use the ORCID API to extract works from your profile</li>
+</ul>
+
+<p>There are lots of services that integrate with ORCID.  Go to
+<a href="https://www.ncbi.nlm.nih.gov/sciencv/">scincv</a> and set up an account.  Other
+integrations include <a href="https://profiles.impactstory.org/">impactstory</a> (also
+requires a Twitter account) and <a href="https://www.growkudos.com/">growKudos</a></p>
+
+<h2>Advanced: Basic intro to the ORCID API</h2>
+
+<p>ORCID is an open resource, which means you have complete control of and access to your data.
+We&rsquo;ve already seen how you can use the privacy controls to limit access to any
+part of your ORCID profile.  For this example to work your profile will have to
+be public, because we&rsquo;re going to access the information via the public API.
+An API is a way for computer systems to interact.</p>
+
+<p>In this example we want to get a text version of all the works in our ORCID
+profile.</p>
+
+<p>We&rsquo;re going to use orcidtools, a package designed to make using the ORCID API
+easier.  Download
+<a href="https://github.com/caltechlibrary/orcidtools/releases">orcidtools</a> for your
+operating system, unzip the download, and move the executible (under /bin) to a
+location on your PATH.  If you don&rsquo;t know your path, open a terminal window and
+type &lsquo;echo <span class="math inline">\(PATH'.  You can add a location to your path (like HOME/bin) by typing 'export
+PATH=\)</span>HOME/bin:$PATH&rsquo;.</p>
+
+<p>Now, we have to get API access.  Go to <a href="https://orcid.org/developer-tools">developer
+tools</a> and click on &ldquo;Register for the free
+ORCID public API&rdquo;.  You&rsquo;ll have to agree to the terms of service.  The API can
+do much more than we&rsquo;re going to use today.  To get access, we have to make up
+an application.  You can enter things like &ldquo;Test&rdquo; in all the fields.  Click the
+&ldquo;Google Auth&rdquo; line with the plus sign, and then click the save button (the
+black circle).  Click the &ldquo;Show details&rdquo; button to see our identifying
+information.</p>
+
+<p>Now open up a terminal window.  We need to enter the information we just set by
+typing</p>
+
+<pre><code>export ORCID_CLIENT_ID=&quot;PASTE_ID_HERE&quot;
+export ORCID_CLIENT_SECRET=&quot;PASTE_SECRET_HERE&quot;
+export ORCID_API_URL=&quot;https://pub.orcid.org&quot;
+</code></pre>
+
+<h3>Searching</h3>
+
+<p>We can search using the ORCID API.  Let&rsquo;s try to look at affilliations</p>
+
+<pre><code>orcid -search 'affiliation-org-name:(Caltech OR &quot;California Institute of
+Technology&quot;)'
+
+orcid -search 'affiliation-org-name:(&quot;Jet Propulsion Laboratory&quot; OR &quot;NASA Jet
+Propulsion Laboratory&quot;)'
+
+orcid -search 'email:*jpl.nasa.gov'
+
+orcid -search 'email:*caltech.edu'
+
+
+</code></pre>
+
+<p>The full documentation for searching is available at
+<a href="https://members.orcid.org/api/tutorial/search-orcid-registry">https://members.orcid.org/api/tutorial/search-orcid-registry</a></p>
+
+<h3>Exporting Data</h3>
+
+<p>You can also use the API to get data from a specific profile.  We want to get the works from our
+profile.  Type (replacing the ORCID number)</p>
+
+<pre><code>orcid -works 0000-0001-9266-5146 &gt; tmorrell.json
+</code></pre>
+
+<p>This is all the information in your profile in a difficult to read format
+called json.  We want to make this pretty. Open the file (tmorrell.json in the
+example) in atom and use PrettyJSON.</p>
+
+<p>We can use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> and a
+<a href="https://github.com/caltechlibrary/orcidtools/blob/master/templates/orcid2txt.tmpl">template</a> to
+format the results as a text list of citations.</p>
+
+<pre><code>mkpage 'data=tmorrell.json' orcid2txt.tmpl
+</code></pre>
+
+<p>Previous: <a href="01-adding-works.html">Adding Works</a></p>
+
+</section>
+
+<footer>
+<span>&copy; Lesson Contributors</span>
+<span><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="vertical-align: middle;"
+src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></span>
+<span>This work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+4.0 International License</a></span>
+</footer>
+</body>
+</html>

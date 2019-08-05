@@ -30,90 +30,24 @@
 <h2>Learning Objectives</h2>
 
 <ul>
-<li>See how ORCID can be used as a central storage location for your works</li>
-<li>Experience integrating your ORCID account with another service</li>
-<li>Advanced: Use the ORCID API to extract works from your profile</li>
+<li>Integrate your ORCID account with a third party author profile service</li>
 </ul>
 
-<p>There are lots of services that integrate with ORCID.  Go to
-<a href="https://www.ncbi.nlm.nih.gov/sciencv/">scincv</a> and set up an account.  Other
-integrations include <a href="https://profiles.impactstory.org/">impactstory</a> (also
-requires a Twitter account) and <a href="https://www.growkudos.com/">growKudos</a></p>
+<p>As ORCID gains status as a global standard identifier for authors, an increasing number of research services integrate with ORCID.  Examples or services that harvest ORCID data and display publication metrics include:</p>
 
-<h2>Advanced: Basic intro to the ORCID API</h2>
+<ul>
+<li><a href="https://profiles.impactstory.org/">ImpactStory</a>, a researcher profile system that includes alternative metrics for your research contributions (twitter account required for registation)</li>
+<li><a href="https://www.scienceopen.com/">ScienceOpen</a>, a researcher profile and open access publishing platform that offers lay summaries of papers, alternative metrics, and more</li>
+<li><a href="https://www.growkudos.com/">GrowKudos</a>, a research profile system that offers lay summaries of papers, alternative metrics</li>
+<li><a href="http://openvivo.org/">OpenVivo</a>, a demonstration version of the VIVO profile system that supports contributor roles taxonomy and author networks. The small size and experimental nature of its dataset, however, limit functionality. It offers more of a demontration site than a fully-functional author dashboard.</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/sciencv/">MySciEnCV</a>, the researcher profile system shared by United States funders</li>
+</ul>
 
-<p>ORCID is an open resource, which means you have complete control of and access to your data.
-We&rsquo;ve already seen how you can use the privacy controls to limit access to any
-part of your ORCID profile.  For this example to work your profile will have to
-be public, because we&rsquo;re going to access the information via the public API.
-An API is a way for computer systems to interact.</p>
+<h3>Exercise</h3>
 
-<p>In this example we want to get a text version of all the works in our ORCID
-profile.</p>
+<p>For one of the systems listed above, register for a new account using your ORCID.</p>
 
-<p>We&rsquo;re going to use orcidtools, a package designed to make using the ORCID API
-easier.  Download
-<a href="https://github.com/caltechlibrary/orcidtools/releases">orcidtools</a> for your
-operating system, unzip the download, and move the executible (under /bin) to a
-location on your PATH.  If you don&rsquo;t know your path, open a terminal window and
-type &lsquo;echo <span class="math inline">\(PATH'.  You can add a location to your path (like HOME/bin) by typing 'export
-PATH=\)</span>HOME/bin:$PATH&rsquo;.</p>
-
-<p>Now, we have to get API access.  Go to <a href="https://orcid.org/developer-tools">developer
-tools</a> and click on &ldquo;Register for the free
-ORCID public API&rdquo;.  You&rsquo;ll have to agree to the terms of service.  The API can
-do much more than we&rsquo;re going to use today.  To get access, we have to make up
-an application.  You can enter things like &ldquo;Test&rdquo; in all the fields.  Click the
-&ldquo;Google Auth&rdquo; line with the plus sign, and then click the save button (the
-black circle).  Click the &ldquo;Show details&rdquo; button to see our identifying
-information.</p>
-
-<p>Now open up a terminal window.  We need to enter the information we just set by
-typing</p>
-
-<pre><code>export ORCID_CLIENT_ID=&quot;PASTE_ID_HERE&quot;
-export ORCID_CLIENT_SECRET=&quot;PASTE_SECRET_HERE&quot;
-export ORCID_API_URL=&quot;https://pub.orcid.org&quot;
-</code></pre>
-
-<h3>Searching</h3>
-
-<p>We can search using the ORCID API.  Let&rsquo;s try to look at affilliations</p>
-
-<pre><code>orcid -search 'affiliation-org-name:(Caltech OR &quot;California Institute of
-Technology&quot;)'
-
-orcid -search 'affiliation-org-name:(&quot;Jet Propulsion Laboratory&quot; OR &quot;NASA Jet
-Propulsion Laboratory&quot;)'
-
-orcid -search 'email:*jpl.nasa.gov'
-
-orcid -search 'email:*caltech.edu'
-
-
-</code></pre>
-
-<p>The full documentation for searching is available at
-<a href="https://members.orcid.org/api/tutorial/search-orcid-registry">https://members.orcid.org/api/tutorial/search-orcid-registry</a></p>
-
-<h3>Exporting Data</h3>
-
-<p>You can also use the API to get data from a specific profile.  We want to get the works from our
-profile.  Type (replacing the ORCID number)</p>
-
-<pre><code>orcid -works 0000-0001-9266-5146 &gt; tmorrell.json
-</code></pre>
-
-<p>This is all the information in your profile in a difficult to read format
-called json.  We want to make this pretty. Open the file (tmorrell.json in the
-example) in atom and use PrettyJSON.</p>
-
-<p>We can use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> and a
-<a href="https://github.com/caltechlibrary/orcidtools/blob/master/templates/orcid2txt.tmpl">template</a> to
-format the results as a text list of citations.</p>
-
-<pre><code>mkpage 'data=tmorrell.json' orcid2txt.tmpl
-</code></pre>
+<p>Note that data from your ORCID profile is <em>automagically</em> harvested into this new account. Did some of the ORCID not appear? Why or why not?</p>
 
 <p>Previous: <a href="01-adding-works.html">Adding Works</a></p>
 
