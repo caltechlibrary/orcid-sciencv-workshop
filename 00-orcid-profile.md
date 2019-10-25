@@ -44,7 +44,7 @@ After creating an ORCID and validating your e-mail address, you'll have
 access to edit and extend your ORCID profile. You'll notice that your ORCID profile includes areas for you to enter CV-like data. You can enter as much or as little as you like: depending on your privacy settings, this information is what other people or
 computer systems will see when they look up your ORCID.
 
-Refer to the illustration below for an example of Hugh Shanahan's ORCID profile showing data that has been added to basic fields and set to display openly to the world.
+Refer to the illustration below for an example of an ORCID profile showing data that has been added to basic fields and set to display openly to the world.
 ![Hugh's ORCID profile](img/orcid1.jpg)
 
 ----
@@ -54,7 +54,11 @@ Refer to the illustration below for an example of Hugh Shanahan's ORCID profile 
 * Click on the link for 'My ORCID Record' in the top of the ORCID page to edit your profile. 
 * Add an alternate name in the 'also known as' field; 
 * Compose a brief biography in the 'Biography'' field; 
-* Add one or more entries into the 'Education' and 'Employment' sections. 
+* Add one or more entries into the 'Education', 'Employment', or "Invited Positions" sections. 
+
+When you're adding to the 'Education', 'Employment', or "Invited Positions" sections of your record,
+select from the autocomplete list so the affiliation gets associated with
+standard identifiers. Making these fields public makes it much easier
 
 #### Exercise 3b.
 
@@ -67,6 +71,14 @@ Set the privacy settings for each data field you completed in your ORCID profile
 ![ORCID Privacy settings](img/orcid2.jpg)
 
 **Note that your preferred name and ORCID number are always set to be visible by 'everyone', as an ORCID policy.**
+
+#### Exercise 4. 
+
+You can allow someone else to edit your ORCID profile on your behalf. This
+avoids you having to share your password with someone else! The third party must have an ORCID account. 
+Go to account settings in your ORCID record, and add the information of the third party in the Trusted individuals section.
+
+![ORCID third party](img/orcid_trusted.jpg)
 
 -----
 
