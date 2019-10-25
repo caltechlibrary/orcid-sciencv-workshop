@@ -1,5 +1,5 @@
 #  Getting Started with ORCID
-25 Minutes
+15 Minutes
 
 ---
 
@@ -78,7 +78,7 @@ You can allow someone else to edit your ORCID profile on your behalf. This
 avoids you having to share your password with someone else! The third party must have an ORCID account. 
 Go to account settings in your ORCID record, and add the information of the third party in the Trusted individuals section.
 
-![ORCID third party](img/orcid_trusted.jpg)
+![ORCID third party](img/orcid_trusted.png)
 
 -----
 
