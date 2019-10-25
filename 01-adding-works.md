@@ -141,7 +141,7 @@ file you downloaded'.
 
 Save the uploaded file by clicking on the little green icon that looks like either an old-fashioned computer disk or a hotel bed.
 
-![___Figure 4c. Review BibTeX___](img/orcid16.png)
+![___Figure 4c. Review BibTeX___](img/orcid16_500.png)
 
 
 You can also get BibTeX files from reference managers like Zotero and publisher
@@ -151,10 +151,6 @@ web sites.
 
 Delete any works you added for testing that arn't yours by using the delete
 trash can icon.  
-
-## Exercise 6
-
-
 
 ---
 
