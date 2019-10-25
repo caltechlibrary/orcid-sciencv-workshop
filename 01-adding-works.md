@@ -1,6 +1,6 @@
 #  Adding Works to your ORCID profile
 
-60 Minutes
+30 Minutes
 
 ---
 

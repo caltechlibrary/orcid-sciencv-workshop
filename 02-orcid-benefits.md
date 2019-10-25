@@ -1,6 +1,6 @@
 #  Benefits of using your ORCID iD
 
-20 Minutes
+15 Minutes
 
 ---
 
