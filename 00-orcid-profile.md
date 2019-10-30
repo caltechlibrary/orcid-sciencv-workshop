@@ -27,6 +27,18 @@ The scholarly web is exploding in size and complexity as more research outputs a
 These circumstances mean that, on the scholarly web, both people and machines can get confused about author identity and might mistakenly attribute one author's works to another author with a similar name. Conversely, an author whose name changes over time may fail to receive credit for all of his or her works. An institution such as a publisher, funding agency, or university 
 may not be able to validate who is responsible for a work.
 
+Let's look at an example. Check out these two ORCID profiles: [Carol
+Finn](https://orcid.org/0000-0003-3144-1645) and [Carol
+Finn](https://orcid.org/0000-0002-6178-0405)
+
+These two researchers have the same name. Looking at their employment they even work for the same 
+agency in the same state!  If not for their unique ORCIDs, these two highly productive 
+researchers could be easily confused by both humans and computers. 
+
+<img src="img/orcid_example.png" alt="Example ORCiD data for two researchers"
+width="1000px">
+
+
 For all these reasons, the scholarly web works better when each researcher has a unique, persistent identifier that humans and machines can understand. Just as a Digital Object identifier (DOI) pinpoints an exact research contribution, an Online Contributor Researcher ID (ORCID, pronounced like the lovely flower) pinpoints an individual researcher.
 
 ---
